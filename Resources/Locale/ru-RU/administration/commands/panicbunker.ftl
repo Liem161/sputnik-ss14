@@ -12,23 +12,23 @@ cmd-panicbunker_enable_without_admins-desc = Переключает, будет 
 cmd-panicbunker_enable_without_admins-help = Использование: panicbunker_enable_without_admins
 panicbunker-command-enable-without-admins-enabled = "Бункер" будет автоматически включаться, когда администраторов нет в сети.
 panicbunker-command-enable-without-admins-disabled = "Бункер" не будет автоматически включаться, когда администраторов нет в сети.
-cmd-panicbunker_count_deadminned_admins-desc = Переключает, учитывать ли deadmin администраторов при автоматическом включении и выключении "Бункер".
 
+cmd-panicbunker_count_deadminned_admins-desc = Переключает, учитывать ли deadmin администраторов при автоматическом включении и выключении "Бункер".
 cmd-panicbunker_count_deadminned_admins-help = Использование: panicbunker_count_deadminned_admins
 panicbunker-command-count-deadminned-admins-enabled = "Бункер" будет учитывать deadmin администраторов при автоматическом включении и выключении.
 panicbunker-command-count-deadminned-admins-disabled = "Бункер" не будет учитывать deadmin администраторов при автоматическом включении и выключении.
-cmd-panicbunker_show_reason-desc = Переключает, показывать ли подключающимся клиентам причину, по которой "Бункер" заблокировал их подключение.
 
+cmd-panicbunker_show_reason-desc = Переключает, показывать ли подключающимся клиентам причину, по которой "Бункер" заблокировал их подключение.
 cmd-panicbunker_show_reason-help = Использование: panicbunker_show_reason
 panicbunker-command-show-reason-enabled = "Бункер" теперь будет показывать причину пользователям, которым он блокирует подключение.
 panicbunker-command-show-reason-disabled = "Бункер" больше не будет показывать причину пользователям, которым он блокирует подключение.
-cmd-panicbunker_min_account_age-desc = Получает или задаёт минимальный возраст аккаунта в минутах, необходимый для подключения при включённом "Бункере".
 
+cmd-panicbunker_min_account_age-desc = Получает или задаёт минимальный возраст аккаунта в минутах, необходимый для подключения при включённом "Бункере".
 cmd-panicbunker_min_account_age-help = Использование: panicbunker_min_account_age <минуты>
 panicbunker-command-min-account-age-is = Минимальный возраст аккаунта для "Бункер" составляет {$minutes} минут.
 panicbunker-command-min-account-age-set = Минимальный возраст аккаунта для "Бункер" установлен на {$minutes} минут.
-cmd-panicbunker_min_overall_minutes-desc = Получает или задаёт минимальное общее время игры в минутах, необходимое для подключения при включённом "Бункере".
 
+cmd-panicbunker_min_overall_minutes-desc = Получает или задаёт минимальное общее время игры в минутах, необходимое для подключения при включённом "Бункере".
 cmd-panicbunker_min_overall_minutes-help = Использование: panicbunker_min_overall_minutes <минуты>
 panicbunker-command-min-overall-minutes-is = Минимальное общее время игры для "Бункер" составляет {$minutes} минут.
 panicbunker-command-min-overall-minutes-set = Минимальное общее время игры для "Бункер" установлено на {$minutes} минут.

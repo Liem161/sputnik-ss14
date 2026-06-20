@@ -4,6 +4,6 @@ osay-command-help-text = Использование: {$command} <uid> <type> <me
 osay-command-arg-uid = source uid
 osay-command-arg-type = type
 osay-command-arg-message = message
-osay-command-error-args = Недопустимое число аргументов.
 
+osay-command-error-args = Недопустимое число аргументов.
 osay-command-error-euid = {$arg} не является допустимым entity uid.
