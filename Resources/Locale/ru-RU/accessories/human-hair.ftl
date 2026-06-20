@@ -2,6 +2,7 @@ marking-HumanHairAfro = Афро
 marking-HumanHairAfro2 = Афро 2
 marking-HumanHairBigafro = Афро (Большая)
 marking-HumanHairAntenna = Ахоге
+marking-HumanHairBaby = Детские
 marking-HumanHairBalding = Лысеющий
 marking-HumanHairBedhead = Небрежная
 marking-HumanHairBedheadv2 = Небрежная 2
